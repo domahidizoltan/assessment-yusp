@@ -1,0 +1,8 @@
+config:
+  input-folder: src/main/resources/data/input/
+  output-folder: src/main/resources/data/output/
+
+logging:
+  level:
+    com:
+      yusp: DEBUG
